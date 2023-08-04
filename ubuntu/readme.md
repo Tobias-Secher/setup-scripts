@@ -1,4 +1,4 @@
-# Setup for ubunto OS
+# Setup for ubuntu OS
 
 **DO THIS AT YOUR OWN RISK**
 <br />
