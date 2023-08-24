@@ -1,0 +1,8 @@
+[Unit]
+Description=Custom Startup Script
+ 
+[Service]
+ExecStart=~/Documents/workspace/setup-scripts/ubuntu/keyboard/keyboard-startup.sh
+ 
+[Install]
+WantedBy=default.target
